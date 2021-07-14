@@ -20,3 +20,18 @@ grep -irl wdr6500 ./*
 2.【新增文件】
 
 /target/linux/ath79/dts/qca9561_tplink_tl-wdr5800-v1.dts
+
+
+tl-wdr5800 v1
+
+出厂配置：
+
+cpu：qca9561
+
+内存：64MB（已硬改为128MB）
+
+闪存：8MB（已硬改为16MB）
+
+5GHz WiFi芯片：qca9887
+
+网口（100Mbps）：W L L L L
